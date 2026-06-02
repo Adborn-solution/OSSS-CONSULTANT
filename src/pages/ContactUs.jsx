@@ -63,8 +63,7 @@ const ContactUs = () => {
                   Office Address
                 </h3>
                 <p className="text-[13px] leading-[1.4] text-black">
-                  Plot No 47, 3rd Floor, Corporation House, 3379/47, Mankapur
-                  Ring Rd, Pratap Nagar, Nagpur, Maharashtra 440026
+                  6/23/372 Gautam Nagar, Nizamabad, Nizamabad, Telangana, India, 503002
                 </p>
               </div>
 

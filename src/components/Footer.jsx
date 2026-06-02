@@ -29,7 +29,7 @@ const Footer = () => {
 
             <div className="flex items-center gap-2 mt-8">
               <a
-                href="https://www.facebook.com/"
+                href="https://www.facebook.com/osssconsultingservices/"
                 target="_blank"
                 rel="noreferrer"
                 aria-label="Visit Facebook"
@@ -39,7 +39,7 @@ const Footer = () => {
               </a>
 
               <a
-                href="https://www.instagram.com/"
+                href="https://www.instagram.com/osssconsultingservices/"
                 target="_blank"
                 rel="noreferrer"
                 aria-label="Visit Instagram"
@@ -49,7 +49,7 @@ const Footer = () => {
               </a>
 
               <a
-                href="https://www.linkedin.com/"
+                href="https://www.linkedin.com/company/osss-consulting-services-india-pvt-ltd/?viewAsMember=true"
                 target="_blank"
                 rel="noreferrer"
                 aria-label="Visit LinkedIn"
@@ -59,7 +59,7 @@ const Footer = () => {
               </a>
 
               <a
-                href="https://x.com/"
+                href="https://x.com/osssconsulting"
                 target="_blank"
                 rel="noreferrer"
                 aria-label="Visit X"
@@ -108,22 +108,16 @@ const Footer = () => {
                   Operational Address:
                 </h4>
                 <p>
-                  Plot No 47, 3rd floor, Corporation House,
-                  <br />
-                  3379/47, Mankapur Ring Rd, Pratap Nagar,
-                  <br />
-                  Nagpur, Maharashtra 440026
+                  Plot No. 47, 3rd Floor, Kotwal Nagar, Khamla, Laxmi Nagar , Nagpur, Maharashtra, India, 440022
                 </p>
               </div>
 
               <div>
                 <h4 className="text-white font-bold text-[18px] mb-5">
-                  Registered Office:
+                  Head Office:
                 </h4>
                 <p>
-                  6/23/372 Gautam Nagar, Nizamabad,
-                  <br />
-                  Telangana, India, 503002
+                  6/23/372 Gautam Nagar, Nizamabad, Nizamabad, Telangana, India, 503002
                 </p>
               </div>
 
@@ -132,7 +126,7 @@ const Footer = () => {
                   <span className="text-white font-bold">hr</span>
                   -manager@osssconsultingservices.com
                   <br />
-                  9912135070
+                  +91 9912135070
                 </p>
               </div>
             </div>
